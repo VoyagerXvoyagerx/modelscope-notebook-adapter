@@ -1,0 +1,4 @@
+interface:
+  display_name: "ModelScope Notebook Adapter"
+  short_description: "Adapt and reproduce notebooks on ModelScope."
+  default_prompt: "Adapt this notebook or tutorial to run reproducibly in ModelScope Notebook, including environment setup, data/model assets, uploads, licensing, execution, and report updates."
